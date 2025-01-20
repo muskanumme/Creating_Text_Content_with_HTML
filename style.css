@@ -1,0 +1,62 @@
+.heading{
+    font-weight: bold;
+}
+.h1{
+    font-size: 40px;
+    color: black;
+}
+.date{
+    font-size: 20px;
+    color: rgb(177, 187, 187);
+}
+.autor{
+    font-size: 25px;
+}
+img{
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 100px;
+    width: 800px;
+}
+body{
+    text-align: left;
+    margin-left: 100px;
+    margin-left: 100px;
+    border-right: 100px;
+}
+.heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.second{
+    font-size: 15px;
+    border-top: 5px;
+    color: rgb(176, 173, 170);
+}
+blockquote{
+    margin-left: 0px;
+}
+.content1{
+    padding-right: 100px;
+}
+.content2{
+    padding-right: 100px;
+}
+a {
+    color: rgb(0, 0, 0); 
+    text-decoration: none;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: rgb(30, 27, 27); }
+  
+  a:visited {
+    color: rgb(24, 20, 24);
+  }
+  
+  a:active {
+    color: rgb(8, 11, 8); 
+  }
+  
